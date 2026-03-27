@@ -1,2 +1,3 @@
-# jfxrpcs
-Robotic Pest Control System 
+# Robotic Pest Control System 
+
+Robotics is a rapidly growing field and is gaining traction in the agricultural field as well, where robots are used everywhere such as in automatic seeding, weed control, automatic fruit picking, automatic sprayers, harvesting, etc. I aim to use the robots that are already deployed in the field and use the inputs from existing cameras on them to identify pests on crops and send a notification to the farmers/owners so that the crops can be protected or pesticide spraying bots be deployed automatically
